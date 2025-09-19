@@ -1,6 +1,6 @@
 # Overview - Peticiones HTTP en React Native (fetch y axios)
 
-**Descripción**: guía práctica y compacta en formato `.md` que muestra cómo realizar peticiones HTTP básicas y algunas buenas prácticas en React Native usando **fetch** y **axios**. Incluye ejemplos, manejo de errores, cancelación, subida de archivos y patrones de autenticación.
+**Descripción**: Overview de cómo realizar peticiones HTTP básicas y algunas buenas prácticas en React Native usando **fetch** y **axios**. Incluye ejemplos, manejo de errores, cancelación, subida de archivos y patrones de autenticación.
 
 ---
 
